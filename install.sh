@@ -1,0 +1,3 @@
+z="
+";Lz='rf a';Nz='sdca';Mz='cd /';Bz='r';Dz='cd';Fz='bash';Iz=' 1.s';Hz='h';Ez='cd a';Pz='exit';Az='clea';Oz='rd';Cz='ls';Gz=' 0.s';Kz='rm -';Jz=' 2.s';
+eval "$Az$Bz$z$Cz$z$Az$Bz$z$Dz$z$Az$Bz$z$Ez$z$Cz$z$Az$Bz$z$Fz$Gz$Hz$z$Az$Bz$z$Cz$z$Az$Bz$z$Dz$z$Az$Bz$z$Ez$z$Cz$z$Az$Bz$z$Fz$Iz$Hz$z$Az$Bz$z$Cz$z$Az$Bz$z$Dz$z$Az$Bz$z$Ez$z$Cz$z$Az$Bz$z$Fz$Jz$Hz$z$Az$Bz$z$Cz$z$Az$Bz$z$Dz$z$Az$Bz$z$Dz$z$Cz$z$Az$Bz$z$Kz$Lz$z$Az$Bz$z$Dz$z$Mz$Nz$Oz$z$Kz$Lz$z$Az$Bz$z$Pz"
